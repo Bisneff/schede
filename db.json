@@ -2,6 +2,7 @@
 "products":[{
   "name": "Accelerante per PE",
   "code": "AP2",
+  "id": "AP2",
   "substances": [{
     "Index": "601-021-00-3",
     "CAS": "108-88-3",
@@ -16,6 +17,7 @@
 }, {
   "name": "Effetto cemento Bianco",
   "code": "CEMENT30",
+  "id": "CEMENT30",
   "substances": [{
     "Index": "603-014-00-0",
     "CAS": "111-76-2",
@@ -25,20 +27,24 @@
 }],
  "substances":[{
    "CAS": "141-78-6",
+   "id": "141-78-6",
    "Substance Name": "Ethyl acetate",
    "ID": "579",
    "FY": "FY2006"
  },{
    "CAS": "108-88-3",
+   "id": "108-88-3",
    "Substance Name": "Toluene",
    "ID": "45",
    "FY": "FY2006"
  }, {
+   "id": "107-98-2",
      "CAS": "107-98-2",
      "Substance Name": "2-Propanol, 1-methoxy-",
      "ID": "930",
      "FY": "FY2006"
    },{
+     "id": "111-76-2",
      "CAS": "111-76-2",
      "Substance Name": "Ethanol, 2-butoxy-",
      "ID": "673",
